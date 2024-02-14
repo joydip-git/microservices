@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotnetcore\\microservices\\PlatformService\\PlatformService.csproj": {}
+    "D:\\my-applications\\microservices\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "D:\\dotnetcore\\microservices\\PlatformService\\PlatformService.csproj": {
+    "D:\\my-applications\\microservices\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnetcore\\microservices\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "D:\\my-applications\\microservices\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "D:\\dotnetcore\\microservices\\PlatformService\\PlatformService.csproj",
-        "packagesPath": "C:\\Users\\ghosh\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnetcore\\microservices\\PlatformService\\obj\\",
+        "projectPath": "D:\\my-applications\\microservices\\PlatformService\\PlatformService.csproj",
+        "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+        "outputPath": "D:\\my-applications\\microservices\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ghosh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\microservices\\distributed-transaction\\localsysnugets": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -88,7 +99,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

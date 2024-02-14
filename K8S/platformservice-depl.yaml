@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: platform-depl
+  name: platforms-depl
 spec:
   replicas: 1
   selector:
@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: platformservice
-          image: platformservice
+          image: joydipdocker/platformservice:latest
