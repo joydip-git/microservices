@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jrmQfmgdRdK9yP84yITXG2VkbmJLv/l95HkqBYv3Qeu4TFJ78DoJWumR0k8Vml6QMgr6tc9ZmwGf+otyim+G4w==",
+  "dgSpecHash": "9K/YdPH0+nfO0w5PXoz1nyo/Fl+ubtL9BIBPe7UPt9X7JyQvWf5/LvPVzGKtG1m2dDYR3S0MnlOo3spktFmViA==",
   "success": true,
-  "projectFilePath": "D:\\dotnetcore\\microservice-with-docker-kubernetes\\PlatformService\\PlatformService.csproj",
+  "projectFilePath": "D:\\dotnetcore\\microservices\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ghosh\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ghosh\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

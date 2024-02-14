@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotnetcore\\microservice-with-docker-kubernetes\\PlatformService\\PlatformService.csproj": {}
+    "D:\\dotnetcore\\microservices\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "D:\\dotnetcore\\microservice-with-docker-kubernetes\\PlatformService\\PlatformService.csproj": {
+    "D:\\dotnetcore\\microservices\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnetcore\\microservice-with-docker-kubernetes\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "D:\\dotnetcore\\microservices\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "D:\\dotnetcore\\microservice-with-docker-kubernetes\\PlatformService\\PlatformService.csproj",
+        "projectPath": "D:\\dotnetcore\\microservices\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\ghosh\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnetcore\\microservice-with-docker-kubernetes\\PlatformService\\obj\\",
+        "outputPath": "D:\\dotnetcore\\microservices\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ghosh\\AppData\\Roaming\\NuGet\\NuGet.Config"
